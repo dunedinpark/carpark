@@ -1,6 +1,7 @@
 ---
 title: Dunedin Parking
 sub_title: Convenient, affordable inner city parking service
+dun_park_logo: /img/dunedin-park-logo.png
 intro: >-
   Our locally owned and run parking service can help you find the perfect park!
   Please view the options available at our convenient locations:
