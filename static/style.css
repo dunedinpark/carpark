@@ -1,0 +1,39 @@
+body, html {
+  height: 100%;
+}
+
+.navbar {
+  background: #475577;
+}
+
+.hero-image {
+  height: 450px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+.hero-text {
+  position: absolute;
+  top: 45%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.container.map iframe {
+  width: 100%;
+  height: 300px;
+}
+
+.container.map .row {
+  border-bottom: 2px solid #d9d9d9;
+}
+
+.container.map p {
+  margin-bottom: 0.6rem;
+}
+
+footer {
+  background: rgb(40, 50, 78);
+}
