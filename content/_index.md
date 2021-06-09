@@ -16,7 +16,7 @@ intro: >-
 
 
   If you wish to enquire about having your own parking in central Dunedin then please get in touch today! We will be happy to help save you money and avoid constant parking hassles.
-photo: /img/dunedin-park-logo.png
+photo: /img/dunedin-bg.jpg
 map_home:
   - loc_name: Location 1 name
     body: Details for location
