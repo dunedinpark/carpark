@@ -9,11 +9,11 @@ intro: >-
 
   * **[Great King Street](#great-king-street-parking)**
 
-  * **[Vogel Street](#vogel_street_parking)**
+  * **[Vogel Street](#vogel-street-parking)**
 
-  * **[Upper Moray Place](#upper_moray_place_parking)**
+  * **[Upper Moray Place](#upper-moray-place-parking)**
 
-  * **[Rail Trail Parking](#rail_trail_parking)**
+  * **[Rail Trail Parking](#rail-trail-parking)**
 
 
   [](#rail_trail_parking)If you wish to enquire about having your own parking in central Dunedin then please get in touch today! We will be happy to help save you money and avoid constant parking hassles
