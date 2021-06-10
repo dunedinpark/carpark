@@ -7,7 +7,7 @@ intro: >-
   Please view the options available at our convenient locations:
 
 
-  * Great King Street
+  * [Great King Street](<#Great King Street Parking>)
 
   * Vogel Street
 
