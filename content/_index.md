@@ -9,9 +9,9 @@ intro: >-
 
   * [Great King Street](#great-king-street-parking)
 
-  * [Vogel Street](#vogel_street)
+  * [Vogel Street](#vogel_street_parking)
 
-  * Upper Moray Place
+  * [Upper Moray Place](#upper_moray_place_parking)
 
   * Rail Trail Parking
 
