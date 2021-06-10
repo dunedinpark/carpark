@@ -24,10 +24,10 @@ map_home:
       Where - beside McDonalds rear entrance
 
 
-      Access - via Great King St. - opposite Outback
+      Access - via Great King St
 
 
-      Cost - $39.00 per week incl. GST
+      Cost - $43 per week incl. GST
 
 
       Hours - 24/7
@@ -38,4 +38,24 @@ map_home:
 
       Features - covered, fully electronically secure, park number allocated to tenant
     loc_link: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d694.5016470884757!2d170.50548072753668!3d-45.87117777910788!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xa82eac72a879aeb3%3A0x2c67d2709aa4c012!2s120%20Great%20King%20Street%2C%20Dunedin%20Central%2C%20Dunedin%209016!5e0!3m2!1sen!2snz!4v1623295243200!5m2!1sen!2snz
+  - loc_name: Vogel Street Parking
+    body: >-
+      Where - upstairs in building corner of Police and Vogel Streets. 5 minutes
+      walk to the Exchange
+
+
+      Access - via the rear in Vogel Street
+
+
+      Cost - $40 per week incl. GST
+
+
+      Hours - 24/7 (Saturday mornings - some restrictions)
+
+
+      Type - permanent lease / no casual
+
+
+      Features - covered, fully electronically secure, park number allocated to tenant
+    loc_link: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d694.3785557370624!2d170.50160822753693!3d-45.88102767910806!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xa82eac0557d81ee9%3A0xa67e351585cf43ec!2s128%20Vogel%20Street%2C%20Dunedin%20Central%2C%20Dunedin%209016!5e0!3m2!1sen!2snz!4v1623295703988!5m2!1sen!2snz
 ---
