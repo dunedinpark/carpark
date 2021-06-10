@@ -30,7 +30,7 @@ map_home:
       Cost - $43 per week incl. GST
 
 
-      Hours - 24/7
+      Hours - 24 / 7
 
 
       Type - permanent lease / no casual
