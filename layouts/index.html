@@ -38,7 +38,7 @@
     <div class="hero-image" style="background-image:linear-gradient(rgba(255, 255, 255, 0.6), rgba(255, 255, 255, 0.6)), url({{ .Params.photo }})">
       <div class="hero-text">
         <h1 class="text-center">{{ .Title }}</h1>
-        <p class="text-center fw-bold">{{ .Params.sub_title }}</p>
+        <p class="text-center fw-bold fst-italic">{{ .Params.sub_title }}</p>
         <div>{{ .Params.intro | markdownify }}</div>
       </div>
     </div>
@@ -46,7 +46,7 @@
     <div class="container map">
 
       {{ range .Params.map_home }}
-      <div class="row my-5 pb-5">
+      <div class="row my-5 pb-5" id="{{ .loc_name | urlize }}">
         <!-- About the location -->
         <div class="col-md-6">
           <h1 class="fs-2">{{ .loc_name }}</h1>
@@ -54,7 +54,7 @@
         </div>
         <!-- Map -->
         <div class="col-md-6">
-          <iframe src="{{ .loc_link }}" loading="lazy"></iframe>          
+          <iframe src="{{ .loc_link }}" loading="lazy"></iframe>
         </div>
       </div>
       {{ end }}
