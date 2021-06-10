@@ -13,10 +13,10 @@ intro: >-
 
   * **[Upper Moray Place](#upper_moray_place_parking)**
 
-  * **Rail Trail Parking**
+  * **[Rail Trail Parking](#rail_trail_parking)**
 
 
-  If you wish to enquire about having your own parking in central Dunedin then please get in touch today! We will be happy to help save you money and avoid constant parking hassles
+  [](#rail_trail_parking)If you wish to enquire about having your own parking in central Dunedin then please get in touch today! We will be happy to help save you money and avoid constant parking hassles
 photo: /img/dunedin-bg.jpg
 map_home:
   - loc_name: Great King Street Parking
