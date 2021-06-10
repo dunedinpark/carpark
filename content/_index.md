@@ -7,16 +7,13 @@ intro: >-
   Please view the options available at our convenient locations:
 
 
-  Great King Street
+  * Great King Street
 
+  * Vogel Street
 
-  Vogel Street
+  * Upper Moray Place
 
-
-  Upper Moray Place
-
-
-  Rail Trail Parking
+  * Rail Trail Parking
 
 
   If you wish to enquire about having your own parking in central Dunedin then please get in touch today! We will be happy to help save you money and avoid constant parking hassles
