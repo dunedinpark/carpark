@@ -7,9 +7,9 @@ intro: >-
   Please view the options available at our convenient locations:
 
 
-  * [Great King Street](<#Great King Street Parking>)
+  * [Great King Street](#great-king-street-parking)
 
-  * Vogel Street
+  * [Vogel Street](#vogel_street)
 
   * Upper Moray Place
 
