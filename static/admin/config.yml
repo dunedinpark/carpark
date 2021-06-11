@@ -28,11 +28,12 @@ collections:
           - {label: 'Sub Title', name: 'sub_title', widget: 'string'}
           - {label: 'Dunedin Parking logo', name: 'dun_park_logo', widget: 'image'}
           - {label: 'Intro', name: 'intro', widget: 'markdown'}
-          - {label: 'Photo', name: 'photo', hint: 'The hero image' , widget: 'image'}
+          - {label: 'Photo', name: 'photo', hint: 'The hero image', widget: 'image'}
           - label: Map
             name: map_home
             widget: list
             fields:
               - { label: 'Location Name', name: 'loc_name', widget: 'string' }
               - { label: 'Body', name: 'body', widget: 'markdown' }
-              - { label: 'Location link', name: 'loc_link', widget: 'string' }
+              - { label: 'Location link', name: 'loc_link', hint: 'Optional', widget: 'string' }
+              - { label: 'Location image', name: 'loc_img', hint: 'Optional', widget: 'image' }
