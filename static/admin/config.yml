@@ -35,5 +35,5 @@ collections:
             fields:
               - { label: 'Location Name', name: 'loc_name', widget: 'string' }
               - { label: 'Body', name: 'body', widget: 'markdown' }
-              - { label: 'Location link', name: 'loc_link', hint: 'Optional', widget: 'string' }
-              - { label: 'Location image', name: 'loc_img', hint: 'Optional', widget: 'image' }
+              - { label: 'Location link', name: 'loc_link', hint: 'Optional', required: 'false', widget: 'string' }
+              - { label: 'Location image', name: 'loc_img', hint: 'Optional', required: 'false', widget: 'image' }
