@@ -55,7 +55,12 @@
         </div>
         <!-- Map -->
         <div class="col-md-6">
+          {{ if .loc_link }}
           <iframe src="{{ .loc_link }}" loading="lazy"></iframe>
+          {{ end }}
+          {{ if .loc_img }}
+          <img src="{{ .loc_img }}" alt="">
+          {{ end }}
         </div>
       </div>
       {{ end }}
