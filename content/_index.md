@@ -76,4 +76,15 @@ map_home:
 
       Features - asphalt, open, regular patrol, park number allocated to tenant
     loc_link: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1388.937078142255!2d170.5001065568693!3d-45.873827279107914!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xa82eac0c58cdb469%3A0x60629a3ff4e3406d!2s111%20Moray%20Place%2C%20Dunedin%20Central%2C%20Dunedin%209016!5e0!3m2!1sen!2snz!4v1623314746136!5m2!1sen!2snz
+  - loc_name: Rail Trails Parking
+    body: >-
+      We can give you peace of mind with a secure indoor park for your car while
+      you're away on the Rail Trail.
+
+
+      The cost is $10 per day.
+
+
+      Contact us with your details or call us and we'll explain the service.
+    loc_img: /img/rail-trail.jpg
 ---
