@@ -58,4 +58,24 @@ map_home:
 
       Features - covered, fully electronically secure, park number allocated to tenant
     loc_link: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d694.3785557370624!2d170.50160822753693!3d-45.88102767910806!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xa82eac0557d81ee9%3A0xa67e351585cf43ec!2s128%20Vogel%20Street%2C%20Dunedin%20Central%2C%20Dunedin%209016!5e0!3m2!1sen!2snz!4v1623295703988!5m2!1sen!2snz
+  - loc_name: Upper Moray Place Parking
+    body: >-
+      Where - behind CORSO Building - beside the Fortune Theatre, West Moray
+      Place. 3 minutes walk to the Octagon
+
+
+      Access - via a lane beside The Kitchen Table Cafe
+
+
+      Cost - $40 per week incl. GST
+
+
+      Hours - 24/7
+
+
+      Type - permanent lease / no casual
+
+
+      Features - asphalt, open, regular patrol, park number allocated to tenant
+    loc_link: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1388.937078142255!2d170.5001065568693!3d-45.873827279107914!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xa82eac0c58cdb469%3A0x60629a3ff4e3406d!2s111%20Moray%20Place%2C%20Dunedin%20Central%2C%20Dunedin%209016!5e0!3m2!1sen!2snz!4v1623314746136!5m2!1sen!2snz
 ---
