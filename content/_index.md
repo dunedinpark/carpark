@@ -89,4 +89,17 @@ map_home:
 
       Contact us with your details or call us and we'll explain the service.
     loc_img: /img/rail-trail.jpg
+footer:
+  - body: |-
+      **CONTACTS**
+
+      Email: [dunedinparking@hotmail.com](mailto:dunedinparking@hotmail.com)
+
+      Phone or text - [021 202 1633](tel:0212021633)
+  - body: |-
+      **LINKS**
+
+      [City of Dunedin](https://www.dunedin.govt.nz/)
+
+      [Otago Central Rail Trail](https://www.otagocentralrailtrail.co.nz/)
 ---
