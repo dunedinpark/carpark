@@ -89,3 +89,11 @@ footer {
   background: rgb(40, 50, 78);
   color: #9c9c9c;
 }
+
+footer a {
+  color: #9c9c9c;
+}
+
+footer a:hover {
+  color: #838383;
+}
