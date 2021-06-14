@@ -16,7 +16,7 @@ intro: >-
   * **[Rail Trails Parking](#rail-trails-parking)**
 
 
-  **If you wish to enquire about having your own parking in central Dunedin then please get in touch today! We will be happy to help save you money and avoid constant parking hassles**
+  **If you wish to enquire about having your own parking in central Dunedin then please get in touch today! We will be happy to help save you money and avoid constant [parking](http://www.dunedinparking.co.nz/) hassles**
 photo: /img/dunedin-bg.jpg
 map_home:
   - loc_name: Great King Street Parking
