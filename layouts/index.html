@@ -65,8 +65,18 @@
       </div>
       {{ end }}
 
-
     </div>
+
+    <footer>
+      <div class="container py-5" id="footer">
+        <div class="row">
+          <div class="col-md-4">
+            <img src="{{ .Params.dun_park_logo }}" alt="Dunedin Carpark logo" width="145" height="80"></a>
+            <p class="mt-4">&copy; {{ now.Year }} {{ .Title}}</p>
+          </div>
+        </div>
+      </div>
+    </footer>
 
     <button onclick="topFunction()" id="topBtn" title="Go to top">Top</button>
 
