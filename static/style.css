@@ -6,7 +6,7 @@ body, html {
   height: 100%;
 }
 
-h1.fs-3 {
+h1 {
   letter-spacing: 4px;
 }
 
@@ -34,21 +34,14 @@ li.margin-l {
 }
 
 .hero-image {
-  height: 660px;
+  height: 600px;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
   position: relative;
 }
 
-.hero-text {
-  position: absolute;
-  top: 325px;
-  left: 50%;
-  transform: translate(-50%, -50%);
-}
-
-.hero-text a {
+.hero-image a {
   color: #4c6972;
 }
 
