@@ -89,6 +89,28 @@ map_home:
 
       Contact us with your details or call us and we'll explain the service.
     loc_img: /img/rail-trail.jpg
+testimonials:
+  - body: >-
+      "...I have no hesitation in recommending your parking services to anyone
+      who asks about parking spaces. You have been very helpful in the time I
+      have been with you. Thanks very much."\
+
+      Kind regards\
+
+      SL
+  - body: >-
+      "Thank you very much for your prompt replies to queries I've had in the
+      time I've had the park. I've appreciated how approachable you are and wish
+      you well in all current and future ventures."\
+
+      DW
+  - body: |-
+      "..many thanks for your service over the last 2 years.\
+      Kind regards" \
+      AN
+  - body: |-
+      "Thanks for your prompt replies and sorting out the parks for me."\
+      PR
 footer:
   - body: |-
       **CONTACTS**
