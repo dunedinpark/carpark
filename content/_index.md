@@ -98,12 +98,6 @@ testimonials:
       Kind regards\
 
       SL
-  - body: >-
-      "Thank you very much for your prompt replies to queries I've had in the
-      time I've had the park. I've appreciated how approachable you are and wish
-      you well in all current and future ventures."\
-
-      DW
   - body: |-
       "..many thanks for your service over the last 2 years.\
       Kind regards" \
@@ -111,6 +105,12 @@ testimonials:
   - body: |-
       "Thanks for your prompt replies and sorting out the parks for me."\
       PR
+  - body: >-
+      "Thank you very much for your prompt replies to queries I've had in the
+      time I've had the park. I've appreciated how approachable you are and wish
+      you well in all current and future ventures."\
+
+      DW
 footer:
   - body: |-
       **CONTACTS**
