@@ -90,6 +90,10 @@ map_home:
       Contact us with your details or call us and we'll explain the service.
     loc_img: /img/rail-trail.jpg
 testimonials:
+  - body: |-
+      "..many thanks for your service over the last 2 years.\
+      Kind regards" \
+      AN
   - body: >-
       "...I have no hesitation in recommending your parking services to anyone
       who asks about parking spaces. You have been very helpful in the time I
@@ -98,10 +102,6 @@ testimonials:
       Kind regards\
 
       SL
-  - body: |-
-      "..many thanks for your service over the last 2 years.\
-      Kind regards" \
-      AN
   - body: |-
       "Thanks for your prompt replies and sorting out the parks for me."\
       PR
