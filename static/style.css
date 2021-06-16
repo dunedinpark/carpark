@@ -6,7 +6,7 @@ body, html {
   height: 100%;
 }
 
-h1 {
+h1, h2 {
   letter-spacing: 4px;
 }
 
@@ -76,6 +76,10 @@ li.margin-l {
 
 #topBtn:hover {
   background-color: #555;
+}
+
+.testimonials {
+  /* background: grey; */
 }
 
 footer {
