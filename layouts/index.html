@@ -29,7 +29,7 @@
         </button>
         <div class="collapse navbar-collapse justify-content-end text-uppercase fw-bold" id="navbarNavAltMarkup">
           <ul class="navbar-nav align-items-md-center">
-            <li class="nav-item"><a class="nav-link" href="#">Contact</a></li>
+            <li class="nav-item"><a class="nav-link" href="#footer">Contact</a></li>
             <li class="nav-item margin-l"><a class="nav-link border border-3 d-inline p-2" href="#">Top</a></li>
           </ul>
         </div>
@@ -68,11 +68,12 @@
       {{ end }}
     </div>
 
+    <!-- Testimonials -->
     <div class="container mb-5">
       <h2 class="text-center mb-5 text-uppercase">what our clients say</h2>
-      <div class="row">
+      <div class="row justify-content-center">
         {{ range .Params.testimonials }}
-        <div class="col-md-3 testimonials">
+        <div class="col-md-3 p-4 testimonials">
           {{ .body | markdownify }}
         </div>
         {{ end }}

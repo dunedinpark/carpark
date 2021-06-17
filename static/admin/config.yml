@@ -41,9 +41,9 @@ collections:
             name: testimonials
             widget: list
             fields:
-              - { label: 'Body', name: 'body', required: false, widget: 'markdown' }
+              - { label: 'Body', name: 'body', widget: 'markdown' }
           - label: Footer
             name: footer
             widget: list
             fields:
-              - { label: 'Body', name: 'body', required: false, widget: 'markdown' }
+              - { label: 'Body', name: 'body', widget: 'markdown' }

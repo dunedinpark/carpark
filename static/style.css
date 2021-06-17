@@ -79,12 +79,23 @@ li.margin-l {
 }
 
 .testimonials {
-  /* background: grey; */
+  background: #ededed;
+  border-radius: 1rem;
+}
+
+@media (min-width: 768px) {
+  .col-md-3.testimonials {
+    width: 20%;
+  }
+  .col-md-3.testimonials:nth-child(-n+3) {
+    margin-right: 5%;
+  }
 }
 
 footer {
   background: rgb(40, 50, 78);
   color: #9c9c9c;
+  margin-top: 7rem;
 }
 
 footer a {
