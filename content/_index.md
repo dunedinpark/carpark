@@ -4,7 +4,7 @@ sub_title: Convenient, affordable inner city parking service
 dun_park_logo: /img/dunedin-park-logo.png
 intro: >-
   **Our locally owned and run parking service can help you find the perfect
-  park! Please view the options available at our convenient locations**
+  park! Please view the options available at our convenient locations:**
 
 
   * **[Great King Street](#great-king-street-parking)**
@@ -16,7 +16,7 @@ intro: >-
   * **[Rail Trails Parking](#rail-trails-parking)**
 
 
-  **If you wish to enquire about having your own parking in central Dunedin then please get in touch today! We will be happy to help save you money and avoid constant parking hassles**
+  **If you wish to enquire about having your own parking in central Dunedin then please get in touch today! We will be happy to help save you money and avoid constant parking hassles.**
 photo: /img/dunedin-bg.jpg
 map_home:
   - loc_name: Great King Street Parking
