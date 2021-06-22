@@ -20,7 +20,7 @@
   </head>
   <body>
 
-    <nav class="navbar navbar-dark navbar-expand-md">
+    <nav class="navbar fixed-top navbar-dark navbar-expand-md">
       <div class="container">
         <a class="navbar-brand" href="/"><img src="{{ .Params.dun_park_logo }}" alt="Dunedin Carpark logo" width="134" height="74"></a>
         <span class="fw-bold" style="color:#fff">local<br>friendly<br>service</span>
@@ -40,8 +40,13 @@
       <h1 class="text-center pt-5">{{ .Title }}</h1>
       <p class="text-center fw-bold fst-italic">{{ .Params.sub_title }}</p>
       <div class="container">
+        <!-- Maps list -->
         <div class="row justify-content-center">
           <div class="col-md-8">{{ .Params.intro | markdownify }}</div>
+        </div>
+        <!-- Contact us cta -->
+        <div class="d-flex justify-content-center text-uppercase mt-md-5">
+          <a class="btn btn-primary text-light fw-bold fs-6" href="/#footer" style="padding:16px 27px">{{ .Params.contact_us }}</a>
         </div>
       </div>
     </div>
