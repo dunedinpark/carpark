@@ -1,7 +1,7 @@
 ---
+dun_park_logo: /img/dunedin-park-logo.png
 title: Dunedin Parking
 sub_title: Convenient, affordable inner city parking service
-dun_park_logo: /img/dunedin-park-logo.png
 intro: >-
   **Our locally owned and run parking service can help you find the perfect
   park!** 
@@ -24,6 +24,7 @@ intro: >-
 
   **We will be happy to help save you money and avoid constant parking hassles.**
 photo: /img/dunedin-bg.jpg
+contact_us: contact us
 map_home:
   - loc_name: Great King Street Parking
     body: >-
