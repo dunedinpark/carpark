@@ -27,14 +27,50 @@ h1, h2 {
   border-width: 2px;
 }
 
-li.margin-l {
-  margin-left: 2rem;
-}
-
 @media(max-width: 768px) {
   li.margin-l {
     margin: 1.5rem 0;
   }
+}
+
+@media (min-width: 1200px) {
+  .hero-image a {
+    font-size: 1.3rem;
+  }
+}
+
+.hero-image a:hover {
+  color: #2d3f44;
+}
+
+.hero-image ul {
+  list-style: none;
+}
+
+.hero-image ul li::before {
+  content: "\2022";
+  color: #475577;
+  display: inline-block;
+  width: 1em;
+  font-size: 1.5rem;
+}
+
+li.contact-link::after {
+  content: '';
+  display: block;
+  width: 0;
+  height: 2px;
+  background: #ffffff;
+  transition: .3s;
+}
+
+li.contact-link:hover::after {
+  width: 100%;
+  /* transition: width .3s; */
+}
+
+li.margin-l {
+  margin-left: 2rem;
 }
 
 .hero-image {
@@ -46,7 +82,7 @@ li.margin-l {
 }
 
 .hero-image a {
-  color: #4c6972;
+  color: #475577;
 }
 
 .btn-primary {
