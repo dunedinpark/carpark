@@ -24,11 +24,12 @@ collections:
         editor:
           preview: false
         fields:
+          - {label: 'Dunedin Parking logo', name: 'dun_park_logo', widget: 'image'}
           - {label: 'Title', name: 'title', widget: 'string'}
           - {label: 'Sub Title', name: 'sub_title', widget: 'string'}
-          - {label: 'Dunedin Parking logo', name: 'dun_park_logo', widget: 'image'}
           - {label: 'Intro', name: 'intro', widget: 'markdown'}
           - {label: 'Photo', name: 'photo', hint: 'The hero image', widget: 'image'}
+          - {label: 'Contact Us', name: 'contact_us', widget: 'string'}
           - label: Map
             name: map_home
             widget: list
