@@ -16,10 +16,10 @@ intro: >-
 
   * **[Upper Moray Place](#upper-moray-place-parking)**
 
-  * **[Rail Trails Parking](#rail-trails-parking)**
+  * **[Rail Trail Parking](#rail-trails-parking)**
 
 
-  **If you wish to enquire about having your own parking in central Dunedin then please get in touch today!** 
+  **If you wish to enquire about having your own parking in central Dunedin then please get in touch today.**
 
 
   **We will be happy to help save you money and avoid constant parking hassles.**
