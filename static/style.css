@@ -66,7 +66,6 @@ li.contact-link::after {
 
 li.contact-link:hover::after {
   width: 100%;
-  /* transition: width .3s; */
 }
 
 li.margin-l {
@@ -102,6 +101,7 @@ li.margin-l {
 
 .container.map .row {
   border-bottom: 2px solid #d9d9d9;
+  scroll-margin-top: 100px;
 }
 
 .container.map p {
