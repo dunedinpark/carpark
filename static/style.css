@@ -31,6 +31,9 @@ h1, h2 {
   li.margin-l {
     margin: 1.5rem 0;
   }
+  li.contact-link {
+    margin-left: 1.5rem;
+  }
 }
 
 @media (min-width: 1200px) {
