@@ -96,6 +96,20 @@ map_home:
 
       Contact us with your details or call us and we'll explain the service.
     loc_img: /img/rail-trail.jpg
+  - loc_name: Albany Street Parking
+    body: |-
+      W﻿here - 58 Albany Street, Dunedin, Rear of Building
+
+      A﻿ccess - via Ethel McMillan Place
+
+      C﻿ost - $50 + gst per week
+
+      H﻿ours - Monday to Friday, 6am to 6pm
+
+      T﻿ype - permanent lease, no casual
+
+      F﻿eatures - asphalt, open, regular patrol, park number allocated to tenant
+    loc_link: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d694.554529464047!2d170.50998196651835!3d-45.866945571083484!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xa82eac6e876efdbd%3A0xb598b7922cf7bb8d!2s58%20Albany%20Street%2C%20Dunedin%20North%2C%20Dunedin%209016!5e0!3m2!1sen!2snz!4v1751534022884!5m2!1sen!2snz
 testimonials:
   - body: >-
       "...I have no hesitation in recommending your parking services to anyone
