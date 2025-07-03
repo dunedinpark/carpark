@@ -91,7 +91,7 @@ map_home:
     body: |-
       W﻿here - 58 Albany Street, Dunedin, Rear of Building
 
-      A﻿ccess - via Ethel McMillan Place
+      A﻿ccess - via Ethel Seidelberg Place
 
       C﻿ost - $50 + gst per week
 
