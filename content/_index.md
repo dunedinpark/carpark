@@ -18,6 +18,8 @@ intro: >-
 
   * **[A﻿lbany Street](#albany-street-parking)**
 
+  * **[T﻿ennis Otago](#tennis-otago)**
+
   * [](#albany-street-parking)**[Rail Trail Parking](#rail-trails-parking)**
 
 
