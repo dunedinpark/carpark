@@ -71,7 +71,7 @@ map_home:
       Place. 3 minutes walk to the Octagon
 
 
-      Access - via a lane beside The Kitchen Table Cafe
+      Access - via a lane beside Cafe on Moray
 
 
       Cost - $40 per week incl. GST
