@@ -16,7 +16,9 @@ intro: >-
 
   * **[Upper Moray Place](#upper-moray-place-parking)**
 
-  * **[Rail Trail Parking](#rail-trails-parking)**
+  * **[A﻿lbany Street](#albany-street-parking)**
+
+  * [](#albany-street-parking)**[Rail Trail Parking](#rail-trails-parking)**
 
 
   **If you wish to enquire about having your own parking in central Dunedin then please get in touch today.**
@@ -85,17 +87,6 @@ map_home:
 
       Features - asphalt, open, regular patrol, park number allocated to tenant
     loc_link: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1388.937078142255!2d170.5001065568693!3d-45.873827279107914!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xa82eac0c58cdb469%3A0x60629a3ff4e3406d!2s111%20Moray%20Place%2C%20Dunedin%20Central%2C%20Dunedin%209016!5e0!3m2!1sen!2snz!4v1623314746136!5m2!1sen!2snz
-  - loc_name: Rail Trails Parking
-    body: >-
-      We can give you peace of mind with a secure indoor park for your car while
-      you're away on the Rail Trail.
-
-
-      The cost is $10 per day.
-
-
-      Contact us with your details or call us and we'll explain the service.
-    loc_img: /img/rail-trail.jpg
   - loc_name: Albany Street Parking
     body: |-
       W﻿here - 58 Albany Street, Dunedin, Rear of Building
@@ -110,6 +101,17 @@ map_home:
 
       F﻿eatures - asphalt, open, regular patrol, park number allocated to tenant
     loc_link: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d694.554529464047!2d170.50998196651835!3d-45.866945571083484!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xa82eac6e876efdbd%3A0xb598b7922cf7bb8d!2s58%20Albany%20Street%2C%20Dunedin%20North%2C%20Dunedin%209016!5e0!3m2!1sen!2snz!4v1751534022884!5m2!1sen!2snz
+  - loc_name: Rail Trails Parking
+    body: >-
+      We can give you peace of mind with a secure indoor park for your car while
+      you're away on the Rail Trail.
+
+
+      The cost is $10 per day.
+
+
+      Contact us with your details or call us and we'll explain the service.
+    loc_img: /img/rail-trail.jpg
 testimonials:
   - body: >-
       "...I have no hesitation in recommending your parking services to anyone
