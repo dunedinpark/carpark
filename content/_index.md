@@ -101,6 +101,20 @@ map_home:
 
       F﻿eatures - asphalt, open, regular patrol, park number allocated to tenant
     loc_link: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d694.554529464047!2d170.50998196651835!3d-45.866945571083484!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xa82eac6e876efdbd%3A0xb598b7922cf7bb8d!2s58%20Albany%20Street%2C%20Dunedin%20North%2C%20Dunedin%209016!5e0!3m2!1sen!2snz!4v1751534022884!5m2!1sen!2snz
+  - loc_name: Tennis Otago
+    body: |-
+      W﻿here - Logan Park, 33 Logan Park Drive, North Dunedin
+
+      A﻿ccess - off Logan Park Drive, near tennis courts and tennis building
+
+      C﻿ost - $15.00pw incl gst
+
+      H﻿ours - Monday to Friday, 6am to 5pm
+
+      T﻿ype - permanent lease, no casual
+
+      F﻿eatures - asphalt, open, regular patrol, park number allocated to tenant
+    loc_link: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d347.2925370605126!2d170.5245563740803!3d-45.86450092579901!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xa82eac439542fed1%3A0x7c202b2d9c3a2a43!2sTennis%20Otago%20at%20Stevenson%20Tennis%20Centre!5e0!3m2!1sen!2snz!4v1751536189680!5m2!1sen!2snz
   - loc_name: Rail Trails Parking
     body: >-
       We can give you peace of mind with a secure indoor park for your car while
