@@ -114,6 +114,7 @@ li.margin-l {
 .testimonials {
   background: #ededed;
   border-radius: 1rem;
+  margin-bottom: 2rem;
 }
 
 @media (min-width: 768px) {
