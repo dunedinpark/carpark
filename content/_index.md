@@ -20,7 +20,7 @@ intro: >-
 
   * **[T﻿ennis Otago](#tennis-otago)**
 
-  * **[](#cycle-trails-parking)﻿[Cycle Trails Parking](#cycle-trails-parking)**
+  * [](#cycle-trails-parking)**﻿[Cycle Trail Parking](#cycle-trails-parking)**
 
 
   **If you wish to enquire about having your own parking in central Dunedin then please get in touch today.**
@@ -95,7 +95,7 @@ map_home:
 
       A﻿ccess - via Ethel Seidelberg Place
 
-      C﻿ost - $50 + gst per week
+      C﻿ost - $50 incl gst per week
 
       H﻿ours - Monday to Friday, 6am to 6pm
 
@@ -117,7 +117,7 @@ map_home:
 
       F﻿eatures - asphalt, open, regular patrol, park number allocated to tenant
     loc_link: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d347.2925370605126!2d170.5245563740803!3d-45.86450092579901!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xa82eac439542fed1%3A0x7c202b2d9c3a2a43!2sTennis%20Otago%20at%20Stevenson%20Tennis%20Centre!5e0!3m2!1sen!2snz!4v1751536189680!5m2!1sen!2snz
-  - loc_name: Cycle Trails Parking
+  - loc_name: Cycle Trail Parking
     body: >-
       We can give you peace of mind with a secure indoor park for your car while
       you're away on the Cycle Trail.
